@@ -1,4 +1,4 @@
-# Brandon Lind,  Ph.D. - Integrative Life Sciences
+### Brandon Lind,  Ph.D. - Integrative Life Sciences
 **interests** - forest genomics • local adaptation • quantitative traits • population genetics • python
 
 
