@@ -2,9 +2,9 @@
 **interests** - forest genomics • local adaptation • quantitative traits • population genetics • python
 
 
-Hello, World! 👋 I'm currently a Research Fellow at the [University of British Columbia](https://fcs.forestry.ubc.ca) with [Sally Aitken](https://twitter.com/SallyNAitken) and [Sam Yeaman](https://twitter.com/sam_yeaman) working on the [CoAdapTree project](http://coadaptree.forestry.ubc.ca). We're working on genomics-based approaches to assist four ecologically and economically important Canadian conifer species adapt in the face of changing climates, and we are (or will be) sharing every single line of code! Check out our [GitHub page](https://www.github.com/coadaptree)! See a [summary of my public work](https://github.com/yeamanlab/brandon_lind/blob/main/README.md) for the CoAdapTree project.
+Hello, World! 👋 I'm currently a Research Fellow at [Northeastern University](https://www.northeastern.edu/#_ga=2.33693667.351142198.1686237709-830092438.1686237708) with [Katie Lotterhos]() using simulated data to assess machine learning methods for ranking population risk to climate change. I was formerly at the [University of British Columbia](https://fcs.forestry.ubc.ca) with [Sally Aitken](https://twitter.com/SallyNAitken) and [Sam Yeaman](https://twitter.com/sam_yeaman) working on the [CoAdapTree project](http://coadaptree.forestry.ubc.ca) to assist four ecologically and economically important Canadian conifer species adapt in the face of changing climates.
 
-I've created several custom python functions for everyday use - eg using engines to parallelize reading in of large dataframes, submit/query/update slurm jobs, creating basic maps, and more - check out my repo [here](https://github.com/brandonlind/pythonimports)
+I've created several custom python functions for everyday use - eg using engines to parallelize reading in of large dataframes, submit/query/update slurm jobs and slurm queue, creating basic maps, and more - check out my repo [here](https://github.com/brandonlind/pythonimports)
 
 #### Contact
 ✉️ [lind.brandon.m@gmail.com](lind.brandon.m@gmail.com)\
