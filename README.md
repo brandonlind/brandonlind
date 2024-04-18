@@ -9,7 +9,7 @@ I've created several custom python functions for everyday use - eg using engines
 #### Contact
 ✉️ [lind.brandon.m@gmail.com](lind.brandon.m@gmail.com)\
 🐦 [@iowensis](https://www.twitter.com/iowensis)\
-🎓 [google scholar](https://scholar.google.com/citations?user=w0vu_LkAAAAJ&hl=en&oi=ao)\
+🎓 [google scholar](https://scholar.google.com/citations?user=O1EU6pYAAAAJ&hl=en&oi=ao)\
 🔬 [research page](https://brandonlind.github.io)\
 🔗 [LinkedIn](https://www.linkedin.com/in/brandonlind-phd/)
 
